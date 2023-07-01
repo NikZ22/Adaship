@@ -22,4 +22,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="adaship_config.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="main.h">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
